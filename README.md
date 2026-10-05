@@ -147,3 +147,6 @@ aarch64 → use vps-reinstaller-aarch64
 ## 📄 Licença
 
 Uso livre. Use por sua conta e risco.
+
+## 🔑 Senha root 
+LeitboGi0ro
